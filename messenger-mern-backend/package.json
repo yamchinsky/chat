@@ -8,6 +8,10 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yamchinsky/chat.git"
+  },
   "author": "Pavlo <y.p.p@i.ua>",
   "license": "ISC",
   "dependencies": {
